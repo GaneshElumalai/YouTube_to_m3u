@@ -14,13 +14,13 @@ def grab(url):
         #response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print(response)
+                print('link not available')
                 return
             #os.system(f'wget {url} -O temp.txt')
             os.system(f'curl "{url}" > temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print(response)
+                print('link not available')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
