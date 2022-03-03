@@ -20,7 +20,7 @@ def grab(url):
             os.system(f'curl "{url}" > temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('link not available')
+                print(response)
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
@@ -32,6 +32,7 @@ def grab(url):
             break
         else:
             tuner += 5
+    print(response)
     print(f"{link[start : end]}")
 
 print('#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"')
