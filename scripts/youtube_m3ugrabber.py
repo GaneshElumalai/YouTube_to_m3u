@@ -49,6 +49,8 @@ with open('../youtube_channel_info.txt') as f:
             tvg_id = line[3].strip()
             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         if '.m3u8' not in line :
+            continue
+        else :
             grab(line)
             
 if 'temp.txt' in os.listdir():
