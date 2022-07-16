@@ -9,7 +9,6 @@ if 'win' in sys.platform:
     windows = True
 
 def grab(url):
-    print(url)
     response = requests.get(url, timeout=15).text
     if '.m3u8' not in response:
         #response = requests.get(url).text
