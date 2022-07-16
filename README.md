@@ -16,7 +16,7 @@ Paste this URL: `https://raw.githubusercontent.com/GaneshElumalai/YouTube_to_m3u
 
 ### Run the tool on your local machine
 ``` bash
-git clone https://github.com/benmoose39/YouTube_to_m3u.git
+git clone https://github.com/GaneshElumalai/YouTube_to_m3u.git
 cd YouTube_to_m3u
 chmod +x autorun.sh
 ./autorun.sh
