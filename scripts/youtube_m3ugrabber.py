@@ -1,6 +1,7 @@
 #! /usr/bin/python3
 
 import requests
+from bs4 import BeautifulSoup
 import os
 import sys
 
@@ -10,6 +11,7 @@ if 'win' in sys.platform:
 
 def grab(url):
     response = requests.get(url, timeout=15).text
+    soup = BeautifulSoup(response.text, 'html.parser')
     if '.m3u8' not in response:
         #response = requests.get(url).text
         if '.m3u8' not in response:
