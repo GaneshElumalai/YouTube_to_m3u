@@ -3,6 +3,8 @@
 echo $(dirname $0)
 
 python3 -m pip install requests
+python3 -m pip install html5lib
+python3 -m pip install bs4
 
 cd $(dirname $0)/scripts/
 
