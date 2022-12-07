@@ -12,8 +12,8 @@ if 'win' in sys.platform:
 def grab(url):
     response = requests.get(url, timeout=15).text
     soup = BeautifulSoup(response, 'html.parser')
-    for link in soup.find_all('a'):
-        print(link.get('href'))
+    print(soup.find_all('a')[0].get('href'))
+        
     if '.m3u8' not in response:
         #response = requests.get(url).text
         if '.m3u8' not in response:
