@@ -1,17 +1,11 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://sund-images.sunnxt.com/14020/640x360_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg" tvg-id="", SunTV HD
-https://suntvlive.akamaized.net/hls/live/2093448/SunTVHD/master.m3u8?hdnea=st=1670388324~exp=1670388624~acl=!*/2093448/SunTVHD/*~hmac=ce3a6b33cf6684057d2df9bd46ec709528bd188bc9f32ad0bc3e0a46f2e98c0c&PlayBackId=2413216795&cid=14020&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+https://suntvlive.akamaized.net/hls/live/2093448/SunTVHD/master.m3u8?hdnea=st=1670389228~exp=1670389528~acl=!*/2093448/SunTVHD/*~hmac=a65a725c7d1def43fb81d85474767878449e83f1019c45b7cb4b860b7a96b152&PlayBackId=2413216795&cid=14020&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
 
-https://play.google.com/store/apps/details?id=com.genuine.leone
-https://chrome.google.com/webstore/detail/cjfbmleiaobegagekpmlhmaadepdeedn
-https://telegram.dog/techiesneh_official
 https://suntvlive.akamaized.net/hls/live/2093448/SunTVHD/master.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://sund-images.sunnxt.com/26566/640x360_KTVHD_26566_7b9f707c-8b92-4986-8933-df6615f5d808.jpg" tvg-id="", KTV HD
-https://suntvlive.akamaized.net/hls/live/2093450/KTVHD/master.m3u8?hdnea=st=1670388326~exp=1670388626~acl=!*/2093450/KTVHD/*~hmac=218562ff274600f70b65a1fd9ecbabda4998410ceafcca658078c3abe31e12c4&PlayBackId=2413216795&cid=26566&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+https://suntvlive.akamaized.net/hls/live/2093450/KTVHD/master.m3u8?hdnea=st=1670389230~exp=1670389530~acl=!*/2093450/KTVHD/*~hmac=6a18c47875ed83241bbc7be11e8b0fe6e30f7b34b778e93653c0710648c82a27&PlayBackId=2413216795&cid=26566&country=IN&userid=31944969&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
 
-https://play.google.com/store/apps/details?id=com.genuine.leone
-https://chrome.google.com/webstore/detail/cjfbmleiaobegagekpmlhmaadepdeedn
-https://telegram.dog/techiesneh_official
 https://suntvlive.akamaized.net/hls/live/2093450/KTVHD/master.m3u8
