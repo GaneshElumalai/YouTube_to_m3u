@@ -1,5 +1,8 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-SunTV HD | Tamil | |
+SunTV HD | Tamil | https://sund-images.sunnxt.com/14020/640x360_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg |
 https://tsnxt.krsneh.workers.dev/?id=14020
+
+KTV HD | Tamil | https://sund-images.sunnxt.com/26566/640x360_KTVHD_26566_7b9f707c-8b92-4986-8933-df6615f5d808.jpg |
+https://tsnxt.krsneh.workers.dev/?id=26566
