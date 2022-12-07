@@ -8,6 +8,6 @@ python3 -m pip install bs4
 
 cd $(dirname $0)/scripts/
 
-python3 youtube_m3ugrabber.py > ../youtube.m3u
+python3 youtube_m3ugrabber.py > ../playlist.m3u
 
 echo m3u grabbed
