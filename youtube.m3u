@@ -22,7 +22,7 @@ Link_Not_Available
 Link_Not_Available
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", Zee Tamil News (ஜீ தமிழ் செய்திகள்)
-Link_Not_Available
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736637069/ei/LKaCZ7r-N_-LsfIPvfCt0Q4/ip/52.234.42.1/id/xFzqf4d6QIU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51340657/txs/51340226%2C51340657/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-NsTSt2_4Ao2zAVS7xmjYZgvMyyRa_Q9YjrujQ8l2K0DhhWI51fDRM2nSX4xFwvJZ1ZvBV5DJ7V/spc/9kzgDemWakKQILmOo17KwT1bhriTHnaO9IKGLWbs0CPs5qVEqou_UNH919sktKM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgeqfufUoZGgXVki5F1-RmJoTQmo45NtJOE_qvW1qbcfkCIQC0gEFe_xbReWkbJt-nqqLWCS64DD_OuqX7TLzrxQTk8g%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
 Link_Not_Available
@@ -46,7 +46,7 @@ Link_Not_Available
 Link_Not_Available
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Times Now
-Link_Not_Available
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1736637078/ei/NqaCZ--gEcjwsfIP9P-5-A4/ip/52.234.42.1/id/7s1y2CTYbro.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51306781/txs/51306780%2C51306781/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY2Et-ML-DgsMgQpDpoQvpsjoDxpWx_NIGq68iJTxWHcVRjvtm2mnfTGNiBx9x2VYxgizy9Bk28RT-ri/spc/9kzgDd-LrcMpoK3Bsz-D4F5DCHRIUpAH3f98fAi74WCS-Pz8m0_MoLG7UePtOOQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51353498%2C51355912%2C51371294/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgBzQUhynFUi302BCvzO3N3hj6Wr2fnfb_KHfeq8rRinMCIFD9OJeyFNBOvZt6y2iJdtfD46QkKgnYV0thFwLZOd-Y/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Euronews
 Link_Not_Available
