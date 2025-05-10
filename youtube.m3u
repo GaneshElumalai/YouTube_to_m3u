@@ -49,7 +49,7 @@ Link_Not_Available
 Link_Not_Available
 
 #EXTINF:-1 group-title="English" tvg-logo="" tvg-id="", Euronews
-Link_Not_Available
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746929718/ei/1rMfaKy3Kued2_gPkM2ZwA4/ip/172.183.94.144/id/pykpO5kQJ98.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AecWEAZROyu6wTJeGI-qRqhefWhIIoAzSJlFjuaq9RorzugYMuPAgZc75IloaEBJituMNFUOxYt93rqe/spc/wk1kZunH5tdlEmiwA6avVR6bDNOEiqDB_lFJGg-ORZbGFNO4Zw66GzN2pnjcy8U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIXD3FuifngFdgjys13NSYF_H4OiQ88KUr6swF6wK1UUCIAdTAO0EIxt7jD9v9uZknfpj5BZ-T_pOHyG7EuVBpe6R/file/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="", SBT SC
 Link_Not_Available
@@ -67,7 +67,7 @@ Link_Not_Available
 Link_Not_Available
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTiSfFJLvHKmGyDzQ6vOJA8IMmm_CMTqNTprlcp=s900-c-k-c0x00ffffff-no-rj" tvg-id="", Explore Africa
-Link_Not_Available
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746929727/ei/3rMfaKb0OKOvlu8Pts-G4Qk/ip/172.183.94.144/id/YHQ_X0jCPRI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437495/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAa15_s5cTaxOjJCGLavbcdMZ1vN0VxfjxYm4IVq-CDHo4761p8RJwCy6aPvQZ9IWgC8u3hfPW3F/spc/wk1kZqKRCsz1CNds6M8xsE65L6SnOdHebuUn1kUf1n6OCmHA5jVCh8zULn8wOkE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFJo4SqKD6PO6Ph9M_P-kpXjwpOFbZS_X4F-2n7PgouMCIQD2ldG63KFd7cVTNaGJpqQKjqngtGKGF2NV3xnWNzBZzw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://yt3.ggpht.com/VzpDd362KZfDi-ISzI0rtdwlfkcfYYj-707Pwsyf1jufdLH-vn2w_cIHcZTMxEhbePSqsLug5Hc=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Starry Sky
 Link_Not_Available
