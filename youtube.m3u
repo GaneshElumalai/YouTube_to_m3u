@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24X7 (நியூஸ் தமிழ் தொலைக்காட்சி)
-Link_Not_Available
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1752218415/ei/z2ZwaMOiBauN2_gP-5rmgA4/ip/20.236.82.6/id/TAT-AUzb_qw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLO5s-w_5wk55Ys6u7bFI_h3BfftKp-4eLKlq9nxyeh09XF9lgBXjVZ_af6xK5D_HgCqBvGGEpgH/spc/l3OVKTAO7iftHpNZ1KpsaosizUEi3GaQfT_D3UhaOdOGvHfQTBIh5UfYlmwQZdC8b9I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51476175/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANVqwNXt4jxmRlwNXrI_Lcp3c5g_KwGy_hE_eRTxpTIKAiEAjj2sU_dA0bfW1WqaTNVopmORht0yHMyk3wZxQJJCCQU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="636", Polimer News
 Link_Not_Available
