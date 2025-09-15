@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24X7 (நியூஸ் தமிழ் தொலைக்காட்சி)
-Link_Not_Available
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757995974/ei/Zo_IaLrdG7OCkucPh-K8yAQ/ip/145.132.102.240/id/p_r3humRcFc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLMckMgjs8SAlcrJVBxdhn-3_nQVDJsN7k7Qi23pYz96P2RBVjACZxBw3vXK7wroMX_u5RCNzdQ-/spc/l3OVKVMdIlnayZp0ldtk4-2UeLAwOPICMZYu2a0zZ7mo93HT9TbQbMHSwCclcF3q6tM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51514994%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFRbxzMt6KVRTGcV69ChfcX6uVygBKry1AMV_JDjWmcQCIQCXyxC9jl3VOVxROVVOqf8ghTq-gbb44gdT2DNFabk2UQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="636", Polimer News
 Link_Not_Available
@@ -34,7 +34,7 @@ Link_Not_Available
 Link_Not_Available
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/PDwkeo2.png" tvg-id="", Star Music Live
-Link_Not_Available
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757995988/ei/dI_IaLmnJ8qBkucPw-WW4Qo/ip/145.132.102.240/id/n0Z59mpREHs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51567917/txs/51567915%2C51567916%2C51567917/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLNe-CWklg1I2UQUv3UwPSy2xGm3NAFHpIzR50ZL2e2s4GjPOpoL6MkBdPx3qsQCNXmhcebN0fzC/spc/l3OVKTzzCCcw5wP-sECWfY31L_D9ISVqVaOvZxodReZrxbesKhT5FUsd1_fp4cEqS5I/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgXQv0CTVxNJysqd2Qs3s0sDogmT-vvxfUJ1Is4SHZ8gcCIQD9Ty4f4nLvcHX8muCOMYb4zlki7aEjqtMYfpo7GTmDvQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", DW News
 Link_Not_Available
