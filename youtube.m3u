@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/AzIEYXU.png" tvg-id="", NewsTamil 24X7 (நியூஸ் தமிழ் தொலைக்காட்சி)
-Link_Not_Available
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762247214/ei/zm0JaYaQDoqO2_gP4bKz8AI/ip/135.232.224.115/id/7LFfqeXTVRQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5QNYIIpm7dC6MaKa8V9XheHXFMtMrWZYww0j8E5Pwl5ArurF9S-BxYnvdrJ09AmzGNFluZh-3bS/spc/6b0G_KYfpPwn3MgYN-dYpn0YN1FV2VIkvWuO1nVWVcefyQhBc_wx-V9g8mtcJ7KejKw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIywmau9ZZE-_CWwwbPm17Gkgj1v2TL15Mdx2meePESpAiAcFuYI2vgoQ3PgWMRZfNQpsPVB_IfeC2Xg95GGFDz9tw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="http://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" tvg-id="636", Polimer News
 Link_Not_Available
@@ -22,7 +22,7 @@ Link_Not_Available
 Link_Not_Available
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.imgur.com/3rLEBaS.jpg" tvg-id="", Zee Tamil News (ஜீ தமிழ் செய்திகள்)
-Link_Not_Available
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762247224/ei/2G0JacDlI--Oir4PgJW02Qg/ip/135.232.224.115/id/wHB9ho27qJQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AdEuB5RRmniZeKn8NPfXJhQSIVIaHvzwuetatOqV1ia2WEPORXf8JKtj8XSsft13WkPwmRANM18O62DA/spc/6b0G_E4hI6sCkl8VDc_QYgvOTDw1Uy3nHBa2pqk2D9WxhN3I_rtB6nP_fKp6fLSvM48/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYHAzdccFcUXbwYhdQn7SYTEC5WoJNE0kPySP5GhUsUwCIAJs1ZxFoppFjqr6bezRRw4DqkBGYClQfXqoULpOrOxj/file/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png" tvg-id="", ABC News
 Link_Not_Available
